@@ -74,7 +74,13 @@
                             <h3>标题</h3>
                             <p>我还in是的弗兰克时间浪费三级分类接撒李开复萨芬绿色减肥啦啊放假拉喀什减肥啦啊东京拉开决定大家啊了解到</p>
                             <hr />
-                            <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+                            {{--<p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>--}}
+                            <small>
+                                2015年10月31日 | 分类：
+                                <a href="http://www.isfp.cn/?cate=2" title="查看 开发 分类下的更多文章">开发</a>
+                                | 浏览：199 次 |TAG：
+                                <a href="http://www.isfp.cn/?tags=9">Laravel</a>
+                            </small>
                         </div>
                     </div>
                 </div>
