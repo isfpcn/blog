@@ -78,6 +78,37 @@
             </div>
         </div>
     </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-md-12">
+                <div class="thumbnail">
+                    <h3 class="text-center">标题</h3>
+                    <img src="{{asset('img/1.jpg')}}" width="360" height="" alt="...">
+                    <div class="caption">
+                        <p>我还in是的弗兰克时间浪费三级分类接撒李开复萨芬绿色减肥啦啊放假拉喀什减肥啦啊东京拉开决定大家啊了解到</p>
+                        <hr />
+                        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <ul class="media-list">
+                <li class="media">
+                    <div class="media-left">
+                        <a href="#">
+                            <img class="media-object" src="..." alt="...">
+                        </a>
+                    </div>
+                    <div class="media-body">
+                        <h4 class="media-heading">Media heading</h4>
+                        11111111111111111111111111
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
 </section>
 
 
